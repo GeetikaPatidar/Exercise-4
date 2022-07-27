@@ -1,0 +1,9 @@
+# Ignore Exe files
+logs
+*.exe
+
+# Ignore the file
+*.o
+
+#Ignore the jar files
+*.jar
